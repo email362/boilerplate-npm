@@ -3,6 +3,7 @@
 	"author": "Chris Hyer",
 	"description":"The npm package tutorial from freecodecamp",
 	"keywords": ["descriptive", "freecodecamp", "tutorial"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
