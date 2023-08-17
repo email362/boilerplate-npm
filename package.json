@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Chris Hyer",
 	"description":"The npm package tutorial from freecodecamp",
+	"keywords": ["descriptive", "freecodecamp", "tutorial"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
